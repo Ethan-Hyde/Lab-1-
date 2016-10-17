@@ -1,0 +1,11 @@
+c:\users\pc_06.devmainsrv1\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+c:\users\pc_06.devmainsrv1\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+c:\users\pc_06.devmainsrv1\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+c:\users\pc_06.devmainsrv1\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+c:\users\pc_06.devmainsrv1\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Troll\Desktop\2016002627 Lab 1\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
